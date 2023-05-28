@@ -1,5 +1,5 @@
 # PIA-LPC
-🔵Repositoriosen GitHub
+🔵Repositorios en GitHub
 
 🔵Nombre: Alberto Jahir Chavero Lara 
 
