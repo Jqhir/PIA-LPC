@@ -8,4 +8,4 @@ esta práctica de escáner estan enfocados en el desarrollo de pequeñas piezas 
 
 [scan port v3](./scan_portv3.py) Para verificar que puerto esta abierto
 
-[Script_Practica](./Script_Practica.py) Se muestra un menu, para seleccionar que tipo de scan se va a utilizar
+[Script_Practica](./Script_Practica.py) Se muestra un menu, para seleccionar que tipo de scan se va a utilizar.
