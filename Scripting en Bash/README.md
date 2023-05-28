@@ -12,4 +12,4 @@ Esta es la práctica de scripting en Bash en donde se practicaron,  permisos y e
 
 [portscan](./portscan.sh) Escaneo de puertos de una ip dada
 
-[superscan](./superscan.sh) Se muestra un menu para designar las opciones de dichos scripts creados anteriormente
+[superscan](./superscan.sh) Se muestra un menu para designar las opciones de dichos scripts creados anteriormente.
