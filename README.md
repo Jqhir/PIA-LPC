@@ -14,7 +14,7 @@
 - # Fase 1
 	- [Scripting en PowerShell](./Scripting_en_powershell/README.md)
 - # Fase 2
-	- [Scripting en Bash](./scripting_en_Bash/README.md)
+	- [Scripting en Bash](./Scripting_en_Bash/README.md)
     - [Webscraping](./Webscrapping/README.md)
 - # Fase 3
 	- [Escáner de Puertos](./escaner_de_puertos/README.md)
