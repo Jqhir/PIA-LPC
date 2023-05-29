@@ -12,7 +12,7 @@
 ***A continuacion de manera detallada y cronologicamente las evidencias realizadas durante el curso***
 
 - # Fase 1
-	- [Scripting en PowerShell](./scripting en powershell/README.md)
+	- [Scripting en PowerShell](./Scripting en powershell/README.md)
 - # Fase 2
 	- [Scripting en Bash](./scripting en bash/README.md)
     - [Webscraping](./Webscrapping/README.md)
